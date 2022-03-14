@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Besmella5
 - 👀 I’m interested in hacking
 - 🌱 I’m currently learning enghlish
-- 💞️ I’m looking to collaborate on gitub
+- 💞️ I’m looking to collaborate on github
 - 📫 How to reach me ...
 
 <!---
